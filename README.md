@@ -1,2 +1,2 @@
 # beautybysonar
-<a href="https://beautybysonar.com/"> Beauty By Sonar </a>
+<a href="https://beautybysonar.com/" rel="dofollow" > Beauty By Sonar </a>
